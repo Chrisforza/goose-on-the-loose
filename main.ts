@@ -17,3 +17,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 scene.setBackgroundColor(2)
+effects.confetti.startScreenEffect()
